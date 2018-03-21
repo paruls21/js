@@ -1,0 +1,21 @@
+h1 {
+   color:#2d3c49;
+    margin-left: 20px;
+	font-family: "Times New Roman";
+}
+h2 {
+   color:#7d97ad;
+    margin-left: 20px;
+	font-family: "Times New Roman";
+}
+
+p {
+	 font-size: large;
+	 text-align: center;
+	     font-weight: bold;
+}
+
+img {
+ height: 200px;
+    width: 80%;
+	}
